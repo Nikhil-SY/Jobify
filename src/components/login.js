@@ -5,6 +5,8 @@ export default function Login() {
     <div>
       <h4>Hi</h4>
       <h4>Hello</h4>
+      <h4>Hi</h4>
+      <h4>Hello</h4>
     </div>
   )
 }
